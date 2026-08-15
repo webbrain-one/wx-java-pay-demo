@@ -3,6 +3,8 @@ wx:
     appId:
     mchId:
     mchKey:
+    notifyUrl: https://example.com/pay/notify
+    tradeType: NATIVE
     subAppId:
     subMchId:
     keyPath:
